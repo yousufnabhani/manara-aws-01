@@ -42,7 +42,7 @@ Link: manara-app-alb-8472635190.us-east-1.elb.amazonaws.com
 
 ---
 
-## 🛠 Key AWS Services Used
+## Key AWS Services Used
 | Service | Purpose |
 |---------|---------|
 | **Amazon EC2** | Hosts the web application. |
