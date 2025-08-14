@@ -3,6 +3,8 @@
 ## Project Overview
 This project demonstrates how to deploy a **secure, highly available, and scalable web application** on AWS using **EC2 instances**, an **Application Load Balancer (ALB)**, and **Auto Scaling Groups (ASG)**. The architecture follows AWS best practices for **compute scalability, fault tolerance, and cost optimization**.
 
+Link: manara-app-alb-8472635190.us-east-1.elb.amazonaws.com
+
 ---
 
 ## Table of Contents
